@@ -3,7 +3,7 @@
 /**
  * OOPSBannerApp
  * UC1: Print literal text "OOPS"
- * @author Vedansh
+ * @author nihal
  * @version 1.0
  */
 public class OOPSBannerApp {
